@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivaSingh4518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivaSingh4518/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShivaSingh4518/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivaSingh4518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivaSingh4518/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShivaSingh4518/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -34,6 +36,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -48,4 +51,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
