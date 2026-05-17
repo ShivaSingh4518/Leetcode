@@ -28,6 +28,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
