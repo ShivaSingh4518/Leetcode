@@ -41,6 +41,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivaSingh4518/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShivaSingh4518/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivaSingh4518/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
