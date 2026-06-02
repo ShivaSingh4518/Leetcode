@@ -30,6 +30,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivaSingh4518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivaSingh4518/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -46,6 +47,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivaSingh4518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivaSingh4518/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivaSingh4518/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ShivaSingh4518/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
