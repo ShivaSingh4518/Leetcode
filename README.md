@@ -38,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivaSingh4518/Leetcode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
