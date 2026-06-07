@@ -81,12 +81,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
