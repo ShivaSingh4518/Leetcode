@@ -43,6 +43,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ShivaSingh4518/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ShivaSingh4518/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivaSingh4518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -94,6 +95,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ShivaSingh4518/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ShivaSingh4518/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -112,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ShivaSingh4518/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
