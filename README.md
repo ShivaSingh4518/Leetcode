@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ShivaSingh4518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0075-sort-colors](https://github.com/ShivaSingh4518/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivaSingh4518/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
