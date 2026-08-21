@@ -51,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShivaSingh4518/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivaSingh4518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ShivaSingh4518/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -95,6 +96,7 @@
 | [0002-add-two-numbers](https://github.com/ShivaSingh4518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShivaSingh4518/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivaSingh4518/Leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ShivaSingh4518/Leetcode/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -115,6 +117,7 @@
 | [0141-linked-list-cycle](https://github.com/ShivaSingh4518/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivaSingh4518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ShivaSingh4518/Leetcode/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivaSingh4518/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShivaSingh4518/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
