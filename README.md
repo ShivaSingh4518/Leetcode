@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ShivaSingh4518/Leetcode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivaSingh4518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -111,6 +112,7 @@
 | [0075-sort-colors](https://github.com/ShivaSingh4518/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -172,6 +174,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivaSingh4518/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ternary Search
 |  |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShivaSingh4518/Leetcode/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
