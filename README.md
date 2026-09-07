@@ -4,6 +4,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShivaSingh4518/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivaSingh4518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -105,6 +106,7 @@
 | [0001-two-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ShivaSingh4518/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ShivaSingh4518/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShivaSingh4518/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0088-merge-sorted-array) |
