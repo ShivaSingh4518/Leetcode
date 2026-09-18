@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivaSingh4518/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ShivaSingh4518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ShivaSingh4518/Leetcode/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivaSingh4518/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivaSingh4518/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -125,6 +126,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivaSingh4518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShivaSingh4518/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ShivaSingh4518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ShivaSingh4518/Leetcode/tree/master/0383-ransom-note) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivaSingh4518/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
