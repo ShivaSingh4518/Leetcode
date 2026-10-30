@@ -66,6 +66,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivaSingh4518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShivaSingh4518/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/ShivaSingh4518/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivaSingh4518/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -122,6 +123,7 @@
 | [0088-merge-sorted-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivaSingh4518/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivaSingh4518/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0739-daily-temperatures](https://github.com/ShivaSingh4518/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaSingh4518/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaSingh4518/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivaSingh4518/Leetcode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ShivaSingh4518/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
